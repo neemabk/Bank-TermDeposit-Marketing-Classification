@@ -1,4 +1,6 @@
 # Term Deposit Subsciption Prediction
+To view source code, [CLICK HERE](https://nbviewer.jupyter.org/github/neemabk/Bank-TermDeposit-Marketing-Classification/blob/main/Classification.ipynb)
+
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/60916305/124637117-f1c58080-de4e-11eb-86e3-3116f35f5a3b.png)
 ## Data Set Information:
 
